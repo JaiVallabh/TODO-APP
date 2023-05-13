@@ -1,0 +1,9 @@
+.ResetButton{
+    width:120px;
+    height: 30px;
+    background-color: rgb(46, 8, 82);
+    color: white;
+    border-radius: 30px;
+    border-color: black;
+    border-width: 1px;
+}
